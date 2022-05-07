@@ -1,1 +1,4 @@
-title: MY VERY FIRST PAGE
+---
+title: "My first blog post"
+date: 2022-05-07
+---
